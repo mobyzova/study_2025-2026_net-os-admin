@@ -5,8 +5,8 @@
 author:
   name: Бызова Мария Олеговна
 ## Title
-title: Отчёт по лабораторной работе №9
-subtitle: Настройка POP3/IMAP сервера
+title: Отчёт по лабораторной работе №10
+subtitle: Расширенные настройки SMTP-сервера
 license: CC BY
 date: 2025-10-28
 ## Generic options
